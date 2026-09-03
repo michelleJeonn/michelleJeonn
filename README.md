@@ -1,13 +1,9 @@
-# Hi there! I'm Michelle
+# Michelle Jeon
 
 I'm a Computer Science student at the University of Waterloo interested in AI/ML.
 
-## About Me
-
 - Previously a Software Developer @ RBC
 - Currently exploring neurosymbolic AI, continual learning, and agentic systems
-
-## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/michelle-jeon-b1660b254/) · [Devpost](https://devpost.com/michellejeonn) · [Email](mailto:m22jeon@uwaterloo.ca)
 
