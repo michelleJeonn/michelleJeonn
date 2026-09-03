@@ -1,19 +1,15 @@
-## Hi there! I'm Michelle
+# Hi there! I'm Michelle
 
-# Hi there! I'm Michelle 👋
-
-I'm a Computer Science student @ University of Waterloo interested in
-AI/ML.
+I'm a Computer Science student at the University of Waterloo interested in AI/ML.
 
 ## About Me
 
-- 💻 Prev Software Developer @ RBC (8 months)
-- 🌱 Currently exploring neurosymbolic AI and continual learning
+- Previously a Software Developer @ RBC
+- Currently exploring neurosymbolic AI, continual learning, and agentic systems
 
-## Connect with me
+## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/michelle-jeon-b1660b254/) · [Devpost]([YOUR_PORTFOLIO_URL](https://devpost.com/michellejeonn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)) · [Email](m22jeon@uwaterloo.ca)
-
+[LinkedIn](https://www.linkedin.com/in/michelle-jeon-b1660b254/) · [Devpost](https://devpost.com/michellejeonn) · [Email](mailto:m22jeon@uwaterloo.ca)
 
 <!--
 **michelleJeonn/michelleJeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
