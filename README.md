@@ -1,7 +1,8 @@
 # Michelle Jeon
 
-H! I'm a Computer Science student at the University of Waterloo interested in AI/ML.
+H! I'm Michelle, a Computer Science student at the University of Waterloo interested in AI/ML.
 
+- Schulich Leader Scholarship Recipient ($100k)
 - Previously a Software Developer @ RBC
 - Currently exploring neurosymbolic AI, continual learning, and agentic systems
 
